@@ -1,0 +1,15 @@
+-- window
+1- SIGN IN
+name, surname, email, sex(tick), save/sign up button
+2- TO DO's
+Task,, process, date?
+3- Data
+the given tasks for each email should be saved in one file through fileWriter
+email password
+if matched ->
+Today -> events in a column with slide
+     Add task, project
+
+FirstPage -  To log in a user that was already signed up, it will give errors if it is not found
+or you left one of the text fields blank. Sign up button will direct you to SignUp screen
+SignUp - User will enter 4 texts
